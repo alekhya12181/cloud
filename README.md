@@ -1,2 +1,2 @@
-# fcc assignment
-website deployment in cloud
+# fundamentals of cloud computing
+website deployment in azure cloud
